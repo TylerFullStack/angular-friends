@@ -127,7 +127,7 @@ A filter that will take a user inputted string and only display models that cont
 
 #### 
 Note that the filter searches all attributes of the model recursively.
-* Use ng-model (on the input) to add an attribute called searchTerm to your FriendController scope to store the value of the search term inputted by the user
+* Use ng-model (on the inp ) to add an attribute called searchTerm to your FriendController scope to store the value of the search term inputted by the user
 * Add a filter to your ng-repeat attribute to filter on the search term
 
 #### 
